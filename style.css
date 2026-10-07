@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+  text-align: center;
+  height: 100%;
+}
+
+
+body, html {
+    background-color: white;
+    color: black;
+    font-family: "Arial", sans-serif;
+}
